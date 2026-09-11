@@ -1,0 +1,11 @@
+interface:
+  display_name: "Photo Relic Editorial"
+  short_description: "Create distinctive photo relic artworks from real photographs using AI image generation."
+  default_prompt: "Use photo-relic-editorial to turn this photo into a Photo Relic artwork — a fully AI-generated editorial image in modern printmaking language."
+  tools:
+    - Read
+    - Write
+    - Edit
+    - Bash
+    - Grep
+    - Glob
