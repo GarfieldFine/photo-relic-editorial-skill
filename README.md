@@ -2,35 +2,27 @@
 把真实照片压缩成一张安静的纸上记忆版画。  
 Turn real photographs into quiet paper-memory editorial artworks.
 
-## Paper Beijing / 纸上北京
+## Examples / 示例
 
 <table>
   <tr>
-    <td align="center" width="33%">
-      <img src="examples/paper-beijing/geese-procession.png" alt="Geese procession Photo Relic example" width="280"><br>
-      <sub>碎石成队 / Gravel Falls Into Line</sub>
+    <td align="center" width="50%">
+      <img src="examples/paper-beijing/tree-shadow.png" alt="Tree shadow Photo Relic example" width="320"><br>
+      <sub>树影 / Tree Shadow</sub>
     </td>
-    <td align="center" width="33%">
-      <img src="examples/paper-beijing/bird-nest-reflection.png" alt="Bird Nest reflection Photo Relic example" width="280"><br>
-      <sub>巢光入水 / Nest Light Enters Water</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="examples/paper-beijing/temple-of-heaven.png" alt="Temple of Heaven Photo Relic example" width="280"><br>
-      <sub>天光有序 / Ordered Sky Light</sub>
+    <td align="center" width="50%">
+      <img src="examples/paper-beijing/dusk-port-crane.png" alt="Dusk port crane Photo Relic example" width="320"><br>
+      <sub>暮港 / Dusk Port</sub>
     </td>
   </tr>
   <tr>
-    <td align="center" width="33%">
-      <img src="examples/paper-beijing/china-zun.png" alt="China Zun skyline Photo Relic example" width="280"><br>
-      <sub>暮色立住 / Dusk Stands Still</sub>
+    <td align="center" width="50%">
+      <img src="examples/paper-beijing/tree-against-sky.png" alt="Tree against sky Photo Relic example" width="320"><br>
+      <sub>枝仰天 / Branches to Sky</sub>
     </td>
-    <td align="center" width="33%">
-      <img src="examples/paper-beijing/great-wall-ridge.png" alt="Great Wall ridge Photo Relic example" width="280"><br>
-      <sub>山脊有路 / A Road Along the Ridge</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="examples/paper-beijing/corner-tower-water.png" alt="Forbidden City corner tower Photo Relic example" width="280"><br>
-      <sub>水照宫墙 / Palace Wall in Water</sub>
+    <td align="center" width="50%">
+      <img src="examples/paper-beijing/sunset-boats-crane.png" alt="Sunset boats crane Photo Relic example" width="320"><br>
+      <sub>落日归舟 / Boats at Sundown</sub>
     </td>
   </tr>
 </table>
